@@ -1,0 +1,10 @@
+h1 {
+    width: 300;
+    border-radius: 10px;
+    font-family: 'Poor Story', cursive;
+    font-weight: bolder;
+    color: white;
+    text-shadow: 1px 1px 10px;
+    background-color: rgb(50, 50, 50);
+    box-shadow: 1px 1px 10px rgb(50, 50, 50);
+}
